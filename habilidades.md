@@ -41,9 +41,9 @@
 <a>
    <img src="https://github.com/Thamine-sumaya/Thamine-sumaya/assets/160533319/63288c34-fc89-43ec-81cc-8299365a16c1" alt="Power BI" width="55" >
 </a>
-<a>
+<!--<a>
    <img src="https://github.com/Thamine-sumaya/Thamine-sumaya/assets/160533319/aaff61cf-b04e-45f3-8491-9317a574e8d0" alt="Google Cloud" width="55" >
-</a>
+</a>-->
 <a>
    <img src="https://github.com/Thamine-sumaya/Thamine-sumaya/assets/160533319/e93a20b1-dc77-42e8-8b3d-4402b0d69598" alt="Excel" width="55" >
 </a>
