@@ -12,6 +12,10 @@
 
 ![formações](https://github.com/Thamine-sumaya/Thamine-sumaya/assets/160533319/d0e93270-3708-44ad-a865-b662e640a239)
 
+<a href="https://hermes.dio.me/certificates/TZL9JGLY.pdf">
+   <img src="https://github.com/user-attachments/assets/4d4e7c15-a377-4197-9873-280addca8572" alt="Python fundamentals" width="150" >
+</a>
+
 <a href="https://github.com/Thamine-sumaya/Github-Certification">
    <img src="https://hermes.dio.me/tracks/972297dc-4357-4af4-abea-89a38853a949.png" alt="Github" width="150" >
 </a>
