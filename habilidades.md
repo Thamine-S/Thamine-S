@@ -13,21 +13,21 @@
 </a>
 ![Estou aprendendo](https://github.com/Thamine-sumaya/Thamine-sumaya/assets/160533319/21e97ba9-c043-42eb-ae89-825f3b7c9d4e)
 <a>
+   <img src="https://github.com/Thamine-sumaya/Thamine-sumaya/assets/160533319/4ed867a0-813b-4021-b71e-4d64afeac40a" alt="C#" width="55" >
+</a>
+<a>
+   <img src="https://github.com/Thamine-sumaya/Thamine-sumaya/assets/160533319/58d02d4c-7a72-49a0-94a2-002471e1ad75" alt="Java Script" width="55" >
+</a>
+
+
+![Tenho interesse](https://github.com/Thamine-sumaya/Thamine-sumaya/assets/160533319/c0aa3f63-5472-4a4b-8b0e-de85f0d1ea18)
+<a>
    <img src="https://github.com/Thamine-sumaya/Thamine-sumaya/assets/160533319/b3141115-ee08-4546-a083-cc7c5c12be52" alt="PHP" width="55" >
 </a>
 <a>
    <img src="https://github.com/Thamine-sumaya/Thamine-sumaya/assets/160533319/cc11a7aa-5d49-4154-8b10-b61c1989b44d" alt="Java" width="55" >
 </a>
 
-
-
-![Tenho interesse](https://github.com/Thamine-sumaya/Thamine-sumaya/assets/160533319/c0aa3f63-5472-4a4b-8b0e-de85f0d1ea18)
-<a>
-   <img src="https://github.com/Thamine-sumaya/Thamine-sumaya/assets/160533319/58d02d4c-7a72-49a0-94a2-002471e1ad75" alt="Java Script" width="55" >
-</a>
-<a>
-   <img src="https://github.com/Thamine-sumaya/Thamine-sumaya/assets/160533319/4ed867a0-813b-4021-b71e-4d64afeac40a" alt="C#" width="55" >
-</a>
 
 ![ferramentas](https://github.com/Thamine-sumaya/Thamine-sumaya/assets/160533319/b6ccad85-87c6-45a1-b8ae-ab65dcc68053)
 ![Editor de Código](https://github.com/Thamine-sumaya/Thamine-sumaya/assets/160533319/f57e5fae-623e-49e0-8a72-8c8233a2db83)
