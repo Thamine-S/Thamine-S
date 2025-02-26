@@ -1,7 +1,7 @@
 ![header](https://github.com/Thamine-S/Thamine-S/assets/171283820/76c6e7af-6938-4fa2-9eb0-c91bcc3f5a56)
 ![divisor](https://github.com/Thamine-S/Thamine-S/assets/171283820/512ae14d-9517-444e-9d49-c67d3c09c077)
-<a href="https://github.com/Thamine-S/Alura-Projeto-Sustentar">
-   <img src="https://github.com/Thamine-S/Thamine-S/assets/171283820/a5f5b563-4b4d-4811-954f-deafaa582b10" width="300" >
+<a href="https://thamine-s.github.io/Portifolio/">
+   <img src="https://github.com/user-attachments/assets/fd2dbcc0-4cf8-4189-a28d-40c6efc56483" width="300" >
 </a>
 <a href="https://github.com/Thamine-S/Thamine-S/blob/main/habilidades.md">
    <img src="https://github.com/Thamine-S/Thamine-S/assets/171283820/8a7a738f-fd4a-4000-b2d7-7ca052e237e0" width="300" >
