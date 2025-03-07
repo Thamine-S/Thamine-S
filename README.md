@@ -3,12 +3,9 @@
 <a href="https://thamine-s.github.io/Portifolio/">
    <img src="https://github.com/user-attachments/assets/fd2dbcc0-4cf8-4189-a28d-40c6efc56483" width="300" >
 </a>
-<a href="https://github.com/Thamine-S/Thamine-S/blob/main/habilidades.md">
-   <img src="https://github.com/Thamine-S/Thamine-S/assets/171283820/8a7a738f-fd4a-4000-b2d7-7ca052e237e0" width="300" >
-</a>
-<a href="https://github.com/Thamine-S/Thamine-S/blob/main/Bootcamps.md">
+<!--<a href="https://github.com/Thamine-S/Thamine-S/blob/main/Bootcamps.md">
    <img src="https://github.com/Thamine-S/Thamine-S/assets/171283820/17788064-1d82-43ea-96b8-5678ab471629" width="200" >
-</a>
+</a>-->
 
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Thamine-S&theme=nightowl)
