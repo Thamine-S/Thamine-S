@@ -1,4 +1,4 @@
-![header](https://github.com/Thamine-S/Thamine-S/assets/171283820/76c6e7af-6938-4fa2-9eb0-c91bcc3f5a56)
+![header](https://github.com/user-attachments/assets/83d4b647-7ca6-4da5-9f63-f2a352679fe4)
 ![divisor](https://github.com/Thamine-S/Thamine-S/assets/171283820/512ae14d-9517-444e-9d49-c67d3c09c077)
 <a href="https://thamine-s.github.io/Portifolio/">
    <img src="https://github.com/user-attachments/assets/fd2dbcc0-4cf8-4189-a28d-40c6efc56483" width="300" >
