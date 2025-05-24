@@ -3,6 +3,10 @@
 <a href="https://thamine-s.github.io/Portifolio/">
    <img src="https://github.com/user-attachments/assets/fd2dbcc0-4cf8-4189-a28d-40c6efc56483" width="300" >
 </a>
+<a href="https://github.com/Thamine-S/Fixation-Project-v2">
+   <img src="https://github.com/user-attachments/assets/ce7b456e-c19c-43d7-b522-8ef24a859328" width="270" >
+</a>
+
 <!--<a href="https://github.com/Thamine-S/Thamine-S/blob/main/Bootcamps.md">
    <img src="https://github.com/Thamine-S/Thamine-S/assets/171283820/17788064-1d82-43ea-96b8-5678ab471629" width="200" >
 </a>-->
