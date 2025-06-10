@@ -12,6 +12,17 @@
 </a>-->
 
 
+
+<div style="display: flex; justify-content: space-between;">
+  <a href="https://github.com/Thamine-S">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thamine-S&show_icons=true&theme=react&include_all_commits=true&count_private=false"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thamine-S&layout=compact&langs_count=7&theme=react"/>
+  </a>
+</div>
+
+
+
+
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Thamine-S&theme=nightowl)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thamine-S&layout=compact&bg_color=011627&border_color=761EE7&title_color=939EFF&text_color=FFE6E6)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Thamine-S&theme=bear&background=011627&border=761EE7&dates=939EFF)](https://git.io/streak-stats)
